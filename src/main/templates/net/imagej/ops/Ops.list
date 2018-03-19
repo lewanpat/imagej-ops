@@ -31,6 +31,7 @@ namespaces = ```
 		[name: "maxTKendallTau",              iface: "MaxTKendallTau"],
 		[name: "pearsons",                    iface: "Pearsons"],
 		[name: "pValue",                      iface: "PValue"],
+		[name: "saca",                        iface: "SACA"],
 		[name: "spearman",                    iface: "Spearman"],
 	]],
 	[name: "convert", iface: "Convert", ops: [
